@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Humans | Matthew Lyon</title>
+    <link>https://m-lyon.github.io/tag/humans/</link>
+      <atom:link href="https://m-lyon.github.io/tag/humans/index.xml" rel="self" type="application/rss+xml" />
+    <description>Humans</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://m-lyon.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Humans</title>
+      <link>https://m-lyon.github.io/tag/humans/</link>
+    </image>
+    
+    <item>
+      <title>Is occipital bending a structural biomarker of risk for depression and sensitivity to treatment?</title>
+      <link>https://m-lyon.github.io/publication/fullard2019is/</link>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://m-lyon.github.io/publication/fullard2019is/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
