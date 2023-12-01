@@ -5,12 +5,20 @@
     <link>https://m-lyon.github.io/tag/diffusion-mri/</link>
       <atom:link href="https://m-lyon.github.io/tag/diffusion-mri/index.xml" rel="self" type="application/rss+xml" />
     <description>Diffusion MRI</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://m-lyon.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Diffusion MRI</title>
       <link>https://m-lyon.github.io/tag/diffusion-mri/</link>
     </image>
+    
+    <item>
+      <title>Spatio-Angular Convolutions for Super-resolution in Diffusion MRI</title>
+      <link>https://m-lyon.github.io/publication/lyon2023spatio/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://m-lyon.github.io/publication/lyon2023spatio/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Angular Super-Resolution in Diffusion MRI with a 3D Recurrent Convolutional Autoencoder</title>
