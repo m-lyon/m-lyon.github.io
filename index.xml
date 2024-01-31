@@ -84,5 +84,45 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <description></description>
     </item>
     
+    <item>
+      <title>3D Recurrent CNN</title>
+      <link>https://m-lyon.github.io/project/rcnn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://m-lyon.github.io/project/rcnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parametric Continuous CNN</title>
+      <link>https://m-lyon.github.io/project/pccnn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://m-lyon.github.io/project/pccnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post Collective</title>
+      <link>https://m-lyon.github.io/project/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://m-lyon.github.io/project/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recipe</title>
+      <link>https://m-lyon.github.io/project/recipe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://m-lyon.github.io/project/recipe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subtitle Filter</title>
+      <link>https://m-lyon.github.io/project/subtitles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://m-lyon.github.io/project/subtitles/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
